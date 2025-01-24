@@ -1,1 +1,2 @@
-# Nykaa-like-E-commerce-Website-
+# Nykaa-like-E-commerce-Website
+A practice of HTML and CSS
